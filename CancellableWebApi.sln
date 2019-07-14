@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellableWebApi", "CancellableWebApi\CancellableWebApi.csproj", "{FBC6D291-F9C5-4FD6-BBA2-495CE1602434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellableWebApi.Tests.Acceptance", "CancellableWebApi.Tests.Acceptance\CancellableWebApi.Tests.Acceptance.csproj", "{603D4D77-1CA6-44C8-877B-D8A0BD0C673D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC6D291-F9C5-4FD6-BBA2-495CE1602434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC6D291-F9C5-4FD6-BBA2-495CE1602434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC6D291-F9C5-4FD6-BBA2-495CE1602434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC6D291-F9C5-4FD6-BBA2-495CE1602434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603D4D77-1CA6-44C8-877B-D8A0BD0C673D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603D4D77-1CA6-44C8-877B-D8A0BD0C673D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603D4D77-1CA6-44C8-877B-D8A0BD0C673D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603D4D77-1CA6-44C8-877B-D8A0BD0C673D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589C01A1-9CC8-4030-8D0A-7D3D8C5A782A}
+	EndGlobalSection
+EndGlobal
